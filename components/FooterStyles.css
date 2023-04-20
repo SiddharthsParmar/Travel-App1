@@ -12,16 +12,22 @@
     grid-gap: 40px;
 }
 .footer .left{
+ background:rgba(43, 59, 67, 0.3);
     height: 100%;
     max-width: 100%;
     display: flex;
     flex-direction: column;
     padding-inline-start: 1rem;
 color: aliceblue;
+border: none;
+border: rgb(84, 84, 84) 1px solid;
+border-radius: 2rem;
+padding: 1rem;
 }
 
 
 .footer .right{
+ background:rgba(43, 59, 67, 0.3);
     height: 100%;
     max-width: 100%;
     display: flex;
@@ -29,6 +35,11 @@ color: aliceblue;
     padding-inline-start: 1rem;
     margin: auto;
     color: white;
+     border: none;
+    border: rgb(84, 84, 84) 1px solid;
+    border-radius: 2rem;
+    padding: 1rem;
+
     
 }
 .footer h4{
